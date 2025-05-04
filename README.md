@@ -1,7 +1,70 @@
-# RSS-Reader
-## RSS, File Handling, Project
-- **This code is implemented by java and by the help of jsoup library and java DOM parser.**
-- **It is the project of my Advanced programming class in Amirkabir University of Technology.**
-- **The duty of this code is to get and show the RSS feed from selected websites and show them to the user.**
-- **This code shows only last 5 RSS feeds for each website.**
-- **You can also modify your desired websites in each step.(you can add or remove your desired websites from the file "data.txt")**
+# 📰 RSS Reader
+
+A Java-based RSS feed reader that helps you stay updated with your favorite websites! 🚀
+
+## ✨ Features
+
+- 📱 Read RSS feeds from multiple websites
+- 🔄 Shows the latest 5 updates from each website
+- 📝 Easy website management (add/remove websites)
+- 🎯 Simple command-line interface
+- 📊 Clean and organized feed display
+
+## 🛠️ Technologies Used
+
+- Java
+- Jsoup library for HTML parsing
+- Java DOM Parser for XML handling
+- File I/O operations
+
+## 📋 Prerequisites
+
+- Java Development Kit (JDK)
+- Jsoup library
+- Basic understanding of RSS feeds
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone [your-repository-url]
+```
+
+2. Make sure you have the Jsoup library in your classpath
+
+3. Run the program:
+```bash
+javac RSSReader.java
+java RSSReader
+```
+
+## 📝 Usage
+
+1. The program reads website URLs from `data.txt`
+2. Choose from the following options:
+   - View RSS feeds
+   - Add a new website
+   - Remove a website
+   - Exit
+
+## 📁 Project Structure
+
+- `RSSReader.java` - Main program file
+- `data.txt` - Contains list of website URLs
+
+## 🎓 About
+
+This project was developed as part of the Advanced Programming course at Amirkabir University of Technology.
+
+## 🤝 Contributing
+
+Feel free to submit issues and enhancement requests!
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 🙏 Acknowledgments
+
+- Jsoup library for HTML parsing
+- Java DOM Parser for XML handling
