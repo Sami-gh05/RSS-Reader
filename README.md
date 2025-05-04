@@ -27,7 +27,7 @@ A Java-based RSS feed reader that helps you stay updated with your favorite webs
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Sami-gh05/RSS-Reader.git
 ```
 
 2. Make sure you have the Jsoup library in your classpath
@@ -59,10 +59,6 @@ This project was developed as part of the Advanced Programming course at Amirkab
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
